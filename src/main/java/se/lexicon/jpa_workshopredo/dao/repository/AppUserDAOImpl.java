@@ -1,6 +1,7 @@
-package se.lexicon.jpa_workshopredo.entity.dao;
+package se.lexicon.jpa_workshopredo.dao.repository;
 
 import org.springframework.stereotype.Repository;
+import se.lexicon.jpa_workshopredo.dao.AppUserDAO;
 import se.lexicon.jpa_workshopredo.entity.AppUser;
 import se.lexicon.jpa_workshopredo.exception.DataNotFoundException;
 

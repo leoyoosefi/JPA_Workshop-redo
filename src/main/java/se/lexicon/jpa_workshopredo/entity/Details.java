@@ -16,6 +16,7 @@ public class Details {
     private LocalDate birthDate;
 
     public Details() {
+
     }
 
     public Details(String email, String name, LocalDate birthDate) {

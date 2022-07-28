@@ -13,6 +13,7 @@ public class AppUser {
     private LocalDateTime regDate;
     @OneToOne
     @JoinColumn(name = "user_details_details_id")
+
     private Details userDetails;
 
     public AppUser() {

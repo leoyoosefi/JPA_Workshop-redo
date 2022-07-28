@@ -1,4 +1,4 @@
-package se.lexicon.jpa_workshopredo.entity.dao;
+package se.lexicon.jpa_workshopredo.dao;
 
 
 import se.lexicon.jpa_workshopredo.entity.AppUser;
